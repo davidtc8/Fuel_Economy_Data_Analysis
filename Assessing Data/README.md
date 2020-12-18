@@ -1,4 +1,4 @@
-# Assessing Data
+# Assessing Data 🔍
 ## What is data assessment?
 In a perfect world, data would always be complete, accurate, current, pertinent, and unambiguous. In the real world, data is generally flawed on some or all of these dimensions. Data assessment in practice has tended to focus on completeness and accuracy, and that is the focus of this exercise.
 ## Analysis:
