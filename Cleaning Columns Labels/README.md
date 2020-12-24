@@ -4,10 +4,17 @@ Data cleaning is the process of preparing data for analysis by removing or modif
 ## Analysis:
 Changing the data types for the following columns:
 ### 2008 Dataframe:
-```cyl``` extract int from string
+```cyl```convert float to int.
+
+```air_pollution_score``` convert int to float.
+
+```city_mpg, hwy_mpg, cmb_mpg``` convert string to float.
+
+```greenhouse_gas_score``` convert from float to int.
+
+### 2018 Dataframe:
+```cyl``` extract int from string.
 
 ```air_pollution_score``` convert string to float.
 
 ```city_mpg, hwy_mpg, cmb_mpg``` convert string to float.
-
-```greenhouse_gas_score``` convert from float to int
