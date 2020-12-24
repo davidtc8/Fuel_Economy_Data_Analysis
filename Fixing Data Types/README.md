@@ -1,6 +1,6 @@
 # Fixing Data Types 🔨
-## What is data assessment?
-Data cleaning is the process of preparing data for analysis by removing or modifying data that is incorrect, incomplete, irrelevant, duplicated, or improperly formatted. This data is usually not necessary or helpful when it comes to analyzing data because it may hinder the process or provide inaccurate results.
+## Importance of Data Types
+When doing data analysis, it is important to make sure you are using the correct data types; otherwise you may get unexpected results or errors.
 ## Analysis:
 Changing the data types for the following columns:
 ### 2008 Dataframe:
