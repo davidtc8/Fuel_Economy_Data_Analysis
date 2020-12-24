@@ -18,3 +18,6 @@ Changing the data types for the following columns:
 ```air_pollution_score``` convert string to float.
 
 ```city_mpg, hwy_mpg, cmb_mpg``` convert string to float.
+
+## Why changing the dataframe:
+Before we do any **analysis**, we need to clean the datatypes, so we can start to the phase of analysis through matplotlib. 
