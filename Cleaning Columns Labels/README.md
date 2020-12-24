@@ -1,23 +1,5 @@
-# Cleaning Data 🧹
-## What is data assessment?
-Data cleaning is the process of preparing data for analysis by removing or modifying data that is incorrect, incomplete, irrelevant, duplicated, or improperly formatted. This data is usually not necessary or helpful when it comes to analyzing data because it may hinder the process or provide inaccurate results.
+# Cleansing Process 🧹
+## What is data cleansing?
+According to **Tableau**, when using data, most people agree that your insights and analysis are only as good as the data you are using. Essentially, garbage data in is garbage analysis out. Data cleaning, also referred to as data cleansing and data scrubbing, is one of the most important steps for your organization if you want to create a culture around quality data decision-making.
 ## Analysis:
-Changing the data types for the following columns:
-### 2008 Dataframe:
-```cyl```convert float to int.
-
-```air_pollution_score``` convert int to float.
-
-```city_mpg, hwy_mpg, cmb_mpg``` convert string to float.
-
-```greenhouse_gas_score``` convert from float to int.
-
-### 2018 Dataframe:
-```cyl``` extract int from string.
-
-```air_pollution_score``` convert string to float.
-
-```city_mpg, hwy_mpg, cmb_mpg``` convert string to float.
-
-## Why changing the dataframe:
-Before we do any **analysis**, we need to clean the datatypes, so we can start to the phase of analysis through matplotlib. 
+Eliminate columns that didn't make sense in the data, rename columns, replace spaces with underscores and lowecase labels for a better data management, making sure the two datasets have equal labels for further data analysis. 
