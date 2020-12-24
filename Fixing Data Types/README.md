@@ -1,5 +1,4 @@
-# Cleansing Process 🧹
-# Cleaning Data 🧹
+# Fixing Data Types 🔨
 ## What is data assessment?
 Data cleaning is the process of preparing data for analysis by removing or modifying data that is incorrect, incomplete, irrelevant, duplicated, or improperly formatted. This data is usually not necessary or helpful when it comes to analyzing data because it may hinder the process or provide inaccurate results.
 ## Analysis:
