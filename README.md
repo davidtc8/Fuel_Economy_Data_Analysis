@@ -19,5 +19,8 @@ Data Analysis with Pandas, Numpy and Matplotlib 📈 about a fuel economy data �
 ### _**Step 5:**_ Conclusions 💡:
 [Click Here](https://github.com/davidtc8/Fuel_Economy_Data_Analysis/tree/master/Conclussions%20and%20Visuals) if you want to know what were the answers to the questions proposed to this project.
 
+### _**Additional Step**_ Merging data frames to answer more questions 🔄:
+[Click Here](https://github.com/davidtc8/Fuel_Economy_Data_Analysis/tree/master/Merging%20Datasets) if you want to know the importance of merging datasets together and review the last question of this project to know _**which car was the most fuel efficient in the United States in 2018.**_
+
 ## Credits:
 Data Analyst Udacity Nanodegree Course
