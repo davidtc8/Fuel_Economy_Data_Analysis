@@ -2,6 +2,13 @@
 ## Project Description:
 Data Analysis with Pandas, Numpy and Matplotlib 📈 about a fuel economy data 💸 from US car models 🚗 from 2008 and 2018
 
+## Reason we're studying this dataset:
+I have some questions regarding greenhouse effect 🌳 and how the cars are related to this effect, therefore I created this 3 questions:
+
+Q1: Are more unique models using _**alternative fuels**_ in 2018 compared to 2008? By how much 🤨?
+Q2: How much have vehicle classes improved in _**fuel economy**_ 📉 (increased in miles per gallon)?
+Q3: For all of the models that were produced in 2008 that are still being produced now, how much has the _**miles per gallon improved and which vehicle improved the most 🚗**_?
+
 ## Want to know more about data analysis process 🤔?
 
 ### _**Step 1:**_ Assessing Data 🔍:
@@ -19,7 +26,7 @@ Data Analysis with Pandas, Numpy and Matplotlib 📈 about a fuel economy data �
 ### _**Step 5:**_ Conclusions 💡:
 [Click Here](https://github.com/davidtc8/Fuel_Economy_Data_Analysis/tree/master/Conclussions%20and%20Visuals) if you want to know what were the answers to the questions proposed to this project.
 
-### _**Additional Step**_ Merging data frames to answer more questions 🔄:
+### _**Additional Step:**_ Merging data frames to answer more questions 🔄:
 [Click Here](https://github.com/davidtc8/Fuel_Economy_Data_Analysis/tree/master/Merging%20Datasets) if you want to know the importance of merging datasets together and review the last question of this project to know _**which car was the most fuel efficient in the United States in 2018.**_
 
 ## Credits:
