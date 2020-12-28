@@ -1,5 +1,5 @@
 # Conclusions 💡
-Answering four questions about the dataset
+Answering two questions about the dataset
 
 ## Questions asked 🤔:
 ### _**Question 1**_: Are more unique car models using alternative fuels in 2018 compared to 2008? By how much?
